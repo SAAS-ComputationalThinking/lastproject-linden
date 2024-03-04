@@ -11,3 +11,10 @@ body{
     height:100vh;
     display:block;
 }
+a{
+    font-size:50px;
+    font-family: monospace;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:50px;
+}
